@@ -43,11 +43,11 @@ Suppose Sandy earns the same amount as above, every month for a year. In that ca
 Example: hitting the ceiling
 ----------------------------
 
-Suppose the Organa fee ceiling is $15,000 per year. 
+Suppose the Organa fee ceiling is $15,000 per year (which is currently is). 
 
 And suppose Sandy gets famous for her specialty skills in reinventing organisations, and manages to land a $200/hour gig at Company Y. Sandy still works 100 hours per month (reserving the rest of her time for hobby projects, fun and family).
 
-That means Sandy will earn in about $240,000, which means the Organa fee would be $24,000. That's way past the $15,000 ceiling, and we haven't even taken the fixed $200/month into account. The point of having a ceiling is to make sure the cost of being at Organa doesn't get out of hand for the highest paid consultants.
+That means Sandy will earn in about $240,000, which means the Organa fee would be $24,000. That's way past the $15,000 ceiling, and we haven't even taken the fixed $250/month into account. The point of having a ceiling is to make sure the cost of being at Organa doesn't get out of hand for the highest paid consultants.
 
 Sandy shares in Slack that she's most likely going to hit the ceiling this year, so there's no point bothering with the % fee. Instead, Sandy keeps 100% of what she earns, and Organa just invoices her the ceiling fee of $3750 per quarter ($15,000 per year / 4 quarters). Simple.
 
