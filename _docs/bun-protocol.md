@@ -31,7 +31,7 @@ How the protocol works
 
 A bun is born when someone asks you for something and you decide that "hey, this is a bun". 
 
-**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared, eg: you're responsible for any emails sent directly to you.
+**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared, eg: you're responsible for any emails sent directly to you. We take turns manning central communication channels (such as emails or phone calls from the website) and we call this "The Neutral Role".
 
 **When you have a bun, you are responsible for taking care of it before it gets too dry.** Preferably within 1 working day, definitely within 2.
 
