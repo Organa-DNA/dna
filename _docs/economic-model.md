@@ -17,7 +17,7 @@ Suppose Sandy is a Organa Member, and her current client is HappyClient1. Sandy'
 1.  During January, Sandy does 100 hours of work for HappyClient1.
 2.  At the end of January, she adds one row to the invoicing spreadsheet (a single shared Google doc), noting that HappyClient1 should be invoiced $10,000 for January.
 3.  The office team sends a $10,000 invoice from Organa to HappyClient1, for Sandy's services.
-4.  Sandy sends a $9,000 invoice from her personal company to Organa ($10,000 minus the 10% Organa "members fee").
+4.  Sandy sends a $9,000 invoice from her personal company to Organa ($10,000 minus the 10% Organa "members contribution").
 
 **Result for January:**
 HappyClient1 pays $10,000, Sandy earns $9,000, Organa earns $1,000.
