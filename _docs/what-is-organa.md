@@ -1,7 +1,7 @@
 ---
 title: "What is Organa?"
 prev_section: index.html
-next_section: how-crisp-works.html
+next_section: how-organa-works.html
 ---
 
 What is Organa and why?
