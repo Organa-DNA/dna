@@ -77,8 +77,8 @@ How are we different from a typical network of independents?
 -   For the service Organa offers, we are then dedicated to Organa - that is, Members are encouraged to do all their work and invoicing through Organa. You can work outside of Organa as long as it doesn't "hurt the home".
 -   We commit to helping and supporting each other.
 
-**What does "hurt the home" mean?**
------------------------------------
+What does "hurt the home" mean?
+-------------------------------
 
 Members can do work outside of Organa, as long as it's not what Organa offers. Selling a product management course would be hurting the home, agile coaching would be hurting the home because these are services we offer. Working in a floristery because you happen to love flowers, wouldn't hurt the home or serving as a Non Executive Director (NED) on Boards wouldn't hurt the home because Organa doesn't offer NED services.   
 
