@@ -7,7 +7,7 @@ next_section: ownership-model.html
 Happiness Index
 ===============
 
-Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We have a 1-5 scale and the data lives in our [dashboard](dashboard.html) (a shared Google sheet).
+Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We have a 1-5 scale and the data lives in our [dashboard](../assets/happiness index.png) (a shared Google sheet).
 
 This happy Member dashboard is an internal shared google spreadsheet containing our most vital shared information. 
 
@@ -16,8 +16,6 @@ It starts with the [happiness index](happiness-index.html), and includes other t
 -   **Happiness index** - how happy are we and why?
 -   **Happiness history** - how has the happiness index developed over time?
 -   **Decision log** - log of Organa-wide that decisions have been made
-
-Here's an [example & template from Crisp](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE).
 
 There's pretty strong peer pressure for people to update this, and most of us do and it's mostly done every fortnight. But nobody is forced (remember one of our [core values](what-is-organa.html) is freedom, so nobody forces anyone to do anything). All in all this gives us a solid overview of what's working and what needs to be fixed.
 
