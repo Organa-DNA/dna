@@ -16,17 +16,17 @@ What do we measure?
 
 We measure:
 
--   How happy we are (see [Happiness Index](happiness-index.html)).
+-   How happy we are (see [Happiness Index](happiness-index.html) where we measure happiness qualitatively and quantitatively).
 -   How happy our clients are (actually, this point is partly aspirational, we currently measure our clients happiness qualitatively).
 
 How do we finance the home?
 ---------------------------
 
-To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around $200/mth, and the variable fee is usually around 8-12%. The fee is intended only to cover Organa's costs, so we check and possibly adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is $250/mth, and the variable fee is usually around 8-12%, currently 10%. The fee is intended only to cover Organa's costs, so we check and review roughly yearly based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa. Interestingly, we have lowered but never yet raised fees.
 
 > **Why a fixed + variable fee?** All of our Members have fixed and variable costs. Same with Organa. With a fixed + variable fee, we get a nice balance that acknowledges fixed + variable costs on both sides. Our Members feel this is a balanced approach.
 
-We also have a ceiling, to limit the total fee a Member pays to Organa per year (variable + fixed). Some Members earn a lot more than others and we don't want them to leave just because Organa gets too expensive. The ceiling is usually around $20,000 per year.
+We also have a ceiling, to limit the total fee a Member pays to Organa per year (variable + fixed). Some Members earn a lot more than others and we don't want them to leave just because Organa gets too expensive. The ceiling is usually around $20,000 per year and it's currently $15,000.
 
 See our [Economic model](economic-model.html) for concrete examples.
 
@@ -36,12 +36,12 @@ What do we do with the money?
 The guiding principles are:
 
 -   **Gold in, Gold out** - you don't need to put in serious cash to join Organa, and there's nothing to cash out when you leave.
--   **No gold on the table** - we don't try to build financial value in the company.
+-   **No gold on the table** - we actively no not build financial value in the company.
 -   **No pot of gold at that end** - there's no financial incentive to sell the company.
 -   **A gold-strewn road** - you keep most of what you earn, as you earn it.
 -   **Continual improvement** - where we can, and if the buffer builds up, we spend it on group activities; learning, coming together, fun.
 
-> **Why don't we try to build financial value?** If Organa has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
+> **Why don't we try to build financial value?** If Organa has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what. This can feel like a whacky model to most people, afterall aren't businesses designed to grow, make money, build economic value? Sure if that floats your boat, but it doesn't float ours. We are simply driven by other motives. 
 
 See [Economic model](economic-model.html) and [Ownership model](ownership-model.html) for more detail on how money flows through the system.
 
