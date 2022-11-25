@@ -7,9 +7,9 @@ next_section: ownership-model.html
 Happiness Index
 ===============
 
-Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We have a 1-5 scale and the data lives in our [happiness dashboard](../assets/happiness index.png) (a shared Google sheet).
+Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We have a 1-5 scale and the data lives in our 
 
-This happy Member dashboard is an internal shared google spreadsheet containing our most vital shared information. 
+![Happiness Index](../assets/happiness-index.png "Happiness Index"), a shared Google sheet.
 
 It starts with the [happiness index]happiness-index.html), and includes other tabs like:
 
