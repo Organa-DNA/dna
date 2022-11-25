@@ -8,9 +8,9 @@ next_section: happiness-index.html
 Why this model works (for us)
 =============================
 
-The model below is something we learned from the folk at Crisp and having reflected upon it, we realise it suits us perfectly. It's how we've been working for a while now, we just hadn't visualised it. We've modified the Crisp version to suit us, but it is essentially, how they've articulated their formula. 
+The model below is something we learned from the folk at Crisp and having reflected upon it, we realise it suits us perfectly. It's how we've been working for years now, we just hadn't visualised it. We've modified the Crisp version to suit us, but it is essentially, how they've articulated their formula. 
 
-We're new compared to Crisp, so as we do more great work, we can reflect upon it against the backdrop of our real world experience and see how it's working. 
+It's around five years now since we started and against the backdrop of our real world experience, it works :) 
 
 ![WhyItWorks](../assets/theproductspace-whyitworks.png "WhyItWorks")
 
