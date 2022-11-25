@@ -1,4 +1,6 @@
-
+title: "How Organa works"
+prev_section: index.html
+next_section: happiness-index.html
 ---
 
 How Organa works
