@@ -1,7 +1,4 @@
----
-title: How Organa works
-prev_section: what-is-crisp.html
-next_section: why-this-works.html
+
 ---
 
 How Organa works
