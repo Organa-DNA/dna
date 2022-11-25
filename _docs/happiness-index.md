@@ -7,15 +7,13 @@ next_section: ownership-model.html
 Happiness Index
 ===============
 
-Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We have a 1-5 scale and the data lives in our Happiness Index: 
-
-![Happiness Index](../assets/happiness-index.png "Happiness Index"), a shared Google sheet.
-
-We have three core parts to the Index:
+Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We use a 1-5 scale and there are three core parts to the Index:
 
 -   **Happiness index** - how happy are we and why?
 -   **Happiness history** - how has the happiness index developed over time?
 -   **Decision log** - log of Organa-wide that decisions have been made
+
+![Happiness Index](../assets/happiness-index.png "Happiness Index").
 
 There's pretty strong peer pressure for people to update this, and most of us do and it's mostly done every fortnight. But nobody is forced (remember one of our [core values](what-is-organa.html) is freedom, so nobody forces anyone to do anything). All in all this gives us a solid overview of what's working and what needs to be fixed.
 
