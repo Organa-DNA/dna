@@ -1,5 +1,6 @@
+---
 title: "How Organa works"
-prev_section: how-crisp-works.html
+prev_section: what-is-organa.html
 next_section: happiness-index.html
 ---
 
