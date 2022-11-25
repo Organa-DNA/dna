@@ -19,16 +19,17 @@ It starts with the [happiness index](happiness-index.html), and includes other t
 
 Here's an [example & template from Crisp](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE).
 
-There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-organa.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a solid overview of what's working and what needs to be fixed.
+There's pretty strong peer pressure for people to update this, and most of us do and it's mostly done every fortnight. But nobody is forced (remember one of our [core values](what-is-organa.html) is freedom, so nobody forces anyone to do anything). All in all this gives us a solid overview of what's working and what needs to be fixed.
 
 Survey questions
 ----------------
 
-The 3 main questions in the survey are:
+The four main questions in the survey are:
 
 -   **How happy are you with being at Organa**? This is the main overarching happiness index.
 -   **How happy are you with your tasks in Organa**? This means internal work such as board meetings, conference facilitation, or creating this Organa DNA site. 
 -   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be happy with Organa, but sad about the current client. Or vice versa. For Members who are not currently with a client, this can express how they feel about that.
+-   **How equitable does it feel right now?** The Member reflects on their contribution to Organa and the contribution of others.
 
 The scale is:
 
@@ -38,9 +39,9 @@ The scale is:
 -   2 = Not feeling so good about this right now.
 -   1 = This is shit, I want out.
 
-> NOTE: If you copy this survey, remember that you can of course make it anonymous. We chose to make it non-anonymous because we have a pretty high-trust culture and people are pretty uninhibited about expressing their thoughts and opinions.
+> NOTE: If you copy this survey, remember that you can of course make it anonymous. We chose to make it non-anonymous because we have a high-trust culture and people are pretty uninhibited about expressing their thoughts and opinions.
 
-We also have a "last updated" column where people enter the date as they update their numbers. When many entries start looking old (as in &gt; 2 months) then we'll start hassling each other to update it. Especially a few days before a conference or board meeting, since we use the happiness data to generate insights and trigger actions.
+We also have a "last updated" column where people enter the date as they update their numbers. If entries start looking old (as in &gt; 2 months) then we'll start hassling each other to update it. 
 
 We have a few additional text columns as well, to gather further info. They are all optional.
 
@@ -55,7 +56,7 @@ It's pretty interesting to read what people write.
 How we use the happiness data
 -----------------------------
 
-The happiness index is used as key artifact during [board meetings](board-of-directors.html), and we also print it out and bring to our [bi-annual unconference](unconference.html).
+The happiness index is used as key artifact during [board meetings](board-of-directors.html), and we also refer to it at our Homecomings and Annual Adventures.
 
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company. Or something. 
 
