@@ -7,9 +7,15 @@ next_section: ownership-model.html
 Happiness Index
 ===============
 
-Our primary metric is our Happiness Index. It's the only thing we systemically measure and follow up. The scale is 1-5 and the data lives in our [dashboard](dashboard.html) (a shared Google sheet).
+Our primary metric Happiness, is measured in our Happiness Index. It's the only thing we systemically measure and follow up. We have a 1-5 scale and the data lives in our [dashboard](dashboard.html) (a shared Google sheet).
 
-![Happiness History](../assets/HappinessIndex.png "Happiness History")
+This happy Member dashboard is an internal shared google spreadsheet containing our most vital shared information. 
+
+It starts with the [happiness index](happiness-index.html), and includes other tabs like:
+
+-   **Happiness index** - how happy are we and why?
+-   **Happiness history** - how has the happiness index developed over time?
+-   **Decision log** - log of Organa-wide that decisions have been made
 
 Here's an [example & template from Crisp](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE).
 
@@ -54,3 +60,10 @@ The happiness index is used as key artifact during [board meetings](board-of-dir
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company. Or something. 
 
 Organa Happiness Index is more important than any financial metric, not only because it visualises the aspect that matters most to us, but also because it is a leading indicator, which makes us more agile. Most financial metrics are trailing indicators, making it hard to react to change in time.
+
+Who is responsible for keeping it up to date?
+---------------------------------------------
+
+We currently share the responsibility.
+
+
