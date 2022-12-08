@@ -7,7 +7,7 @@ next_section: decisions.html
 Economic Model
 ==============
 
-Our high level economic model is summarised in [How Organa Works](how-Product-Space-works.html) so listed here are some examples of how our economic model works.
+Our high level economic model is summarised in [How Organa Works](how-organa-works.html) so listed here are some examples of how our economic model works.
 
 Example: One month
 ------------------
