@@ -27,21 +27,21 @@ If there are any Organa Members with a low score on [Happiness Index](happiness-
 This is the template for our quarterly board meetings.
 
 1. ATTENDANCE, MINUTES ETC
-Check in round
-Nomination of Meeting Leader and Minute Taker
-Acknowledgement of Country
-Minutes of previous meeting and matters arising
-Disclosure of Interests
-Any other Business
+- Check in round
+- Nomination of Meeting Leader and Minute Taker
+- Acknowledgement of Country
+- Minutes of previous meeting and matters arising
+- Disclosure of Interests
+- Any other Business
 
 2. FOR DECISION
-Financial statements
-Operating costs review
+- Financial statements
+- Operating costs review
 
-FOR DISCUSSION
-Review of financial value in the entity
-Review of Decision Log
-Health check of the home, Community and brand
+3. FOR DISCUSSION
+- Review of financial value in the entity
+- Review of Decision Log
+- Health check of the home, Community and brand
 
 ANY OTHER BUSINESS			
 
