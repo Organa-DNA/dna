@@ -24,7 +24,7 @@ In simple terms, we are a consultancy. But a consultancy done differently. Very 
 
 ## What we value
 
-Organa is a home for consultants (Members) who value:
+Organa is a home for advisers (Members) who value:
 
 - Freedom and autonomy in return for transparency and accountability.
 - Hearts over wallets.
@@ -33,7 +33,7 @@ Organa is a home for consultants (Members) who value:
 
 We reckon these values lead to personal happiness as well as business success.
 
-Basically, we're trying to find the magic balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
+Basically, we're trying to find the magic balance between being an independent adviser (full freedom, no support), and being an employee (little freedom, lots of support).
 
 
 > If you [clone the Organa model](how-to-copy.html), you don't have to have the same values. You may have ones that are special to you so use them. Our model derives from our core values which are close to those shared by Crisp so the closer your values are to ours or Crips's, the better the model will fit your context.

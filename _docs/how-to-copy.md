@@ -7,16 +7,16 @@ next_section:
 How to clone the Organa DNA
 ==========================
 
-The Organa DNA is [open-source on github](https://github.com/theproductspace/crisp-dna), so you are welcome to copy it and create something similar.
+The Organa DNA is [open-source on github](https://github.com/Organa-DNA/dna), so you are welcome to copy it and create something similar.
 
 Why clone the Organa DNA?
 ------------------------
 
-Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a traditional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
+Perhaps you are an independent adviser and want to start some kind of collaboration with others. You don't want to run it as a traditional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
 
 Remember we cloned it from the folk at Crisp in Sweden so if your company or organisation is closer to the Swedes than us Australians, maybe that one will suit you. Otherwise, off you go :)
 
-Although we happen to work as product management, digital, or UX consultants, there is nothing in our model that is specific to this consulting business.
+Although we happen to work as product management, digital, or UX advisers, there is nothing in our model that is specific to this consulting business.
 
 What's the licensing model?
 ---------------------------
@@ -31,10 +31,10 @@ Please don't. We can't legally stop you from calling your organisation Organa, b
 How do I create my own copy of the Organa DNA site?
 --------------------------------------------------
 
-Simplest way is to [fork](https://github.com/TheProductSpace) the [dna repo](https://github.com/crispab/crisp-dna) on github. Something like this:
+Simplest way is to fork the [dna repo](https://github.com/Organa-DNA/dna) on github. Something like this:
 
-1.  Surf to <https://github.com/TheProductSpace/dna>.
-2.  Press the "Fork" button on the top right somewhere (here's a [direct link](https://github.com/TheProductSpace/dna/fork)).
+1.  Surf to <https://github.com/Organa-DNA/dna>.
+2.  Press the "Fork" button on the top right somewhere (here's a [direct link](https://github.com/Organa-DNA/dna/fork)).
 3.  You should now have your own copy of the crisp dna.
 4.  Start editing! The articles are all in the \_docs folder, and the table of contents is in \_data. Try opening \_docs/index.textile, and press the little pencil icon on the top right to edit it, and then commit.
 5.  After your first commit the site will be auto-published at **http://YOURNAME.github.io/dna** (or whatever you decide to call your repo)
@@ -48,7 +48,7 @@ No worries, once you've forked it you can remove the stuff you don't need. The g
 
 Another option is to skip the techie stuff (cloning and forking), and just take the bits you like anyway.
 
-Either way, please do mention on your website that your model is derived from (or inspired by) [Organa DNA](https://theproductspace.github.io/dna/), and summarise the key similarities and differences. Spread your learnings :)
+Either way, please do mention on your website that your model is derived from (or inspired by) [Organa DNA](https://organa-dna.github.io/dna/), and summarise the key similarities and differences. Spread your learnings :)
 
 How can I help improve the Organa DNA?
 -------------------------------------
@@ -57,14 +57,14 @@ Hey hey, thanks for asking because Organa always wants to improve :)
 
 If you have an improvement suggestion (big or small) you can:
 
--   [Fork our repo](https://github.com/theproductspace/dna/fork) (as described above), make changes, and issue a [pull request](https://help.github.com/articles/using-pull-requests/) on our repo. If we like your change we will pull it back into our version.
--   ... or [File an issue](https://github.com/theproductspace/dns/issues/new) (pick a suitable label to the right)
+-   [Fork our repo](https://github.com/Organa-DNA/dna/fork) (as described above), make changes, and issue a [pull request](https://help.github.com/articles/using-pull-requests/) on our repo. If we like your change we will pull it back into our version.
+-   ... or [File an issue](https://github.com/Organa-DNA/dna/issues/new) (pick a suitable label to the right)
 
 We appreciate all feedback and hopefully someone will respond, but we can't guarantee it. Remember, we're all volunteers :)
 
 How do I ask questions or give feedback?
 ----------------------------------------
 
-If you have a question feel free to [File an issue](https://github.com/theproductspace/dna/issues/new) on the crisp-dna repo (pick the "question" label to the right). No response guaranteed though.
+If you have a question feel free to [File an issue](https://github.com/Organa-DNA/dna/issues/new) on the dna repo (pick the "question" label to the right). No response guaranteed though.
 
-If you have a general comment (for example "Wow, Awesome!") then the best place is probably on the [blog post announcing this launch](http://www.theproductspace.com/blog/)
+If you have a general comment (for example "Wow, Awesome!") then the best place is probably on the [blog post announcing this launch](https://www.organa.com.au/blog/)

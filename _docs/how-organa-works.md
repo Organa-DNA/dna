@@ -69,7 +69,7 @@ How do we differentiate?
 How are we different from a typical consulting company?
 
 -   Organa doesn't want to earn money from its Members.
--   100% freedom for all consultants (as long as they don't "hurt the home").
+-   100% freedom for all advisers (as long as they don't "hurt the home").
 -   Organa has no other goal than to provide a happy home.
 
 How are we different from a typical network of independents?

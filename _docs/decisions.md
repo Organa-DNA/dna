@@ -70,7 +70,7 @@ Some things to consider when choosing a decisions process:
 -   **Is the decision reversible?** Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 -   **How easy or hard is the decision?** How easy is it to reach consensus with all people affected?
 -   **How urgent is the decision?** What is the consequence of delaying the decision, or not making a decision at all?
--   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, etc. It may also depend on how long you’ve been at Organa (if you are new and unsure you might need to seek more anchoring from people).
+-   **Who are you?** The decision process may vary depending on your perspective – adviser, board member, etc. It may also depend on how long you’ve been at Organa (if you are new and unsure you might need to seek more anchoring from people).
 -   **Is the outcome affected by laws?** The board of directors in an Australian company is bound by Australian laws, so some decisions must be aligned with the board of directors.
 
 > Example decisions:

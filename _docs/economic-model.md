@@ -47,7 +47,7 @@ Suppose the Organa contributions ceiling is $15,000 per year (which is currently
 
 And suppose Sandy gets famous for her specialty skills in reinventing organisations, and manages to land a $200/hour gig at Company Y. Sandy still works 100 hours per month (reserving the rest of her time for hobby projects, fun and family).
 
-That means Sandy will earn in about $240,000, and the Organa contribution would be $24,000. That's way past the $15,000 ceiling, and we haven't even taken the fixed contribution of $250/month into account. The point of having a ceiling is to make sure the cost of being at Organa doesn't get out of hand for the highest paid consultants.
+That means Sandy will earn in about $240,000, and the Organa contribution would be $24,000. That's way past the $15,000 ceiling, and we haven't even taken the fixed contribution of $250/month into account. The point of having a ceiling is to make sure the cost of being at Organa doesn't get out of hand for the highest paid advisers.
 
 Sandy shares in Slack that anticipates hitting the ceiling in a particular month, so for the remaining months she makes no further contributions. Instead, Sandy keeps 100% of what she earns. Simple.
 
@@ -70,7 +70,7 @@ GST or Goods and Services tax may be country-specific, so we won't bore you with
 What about risk pooling? What if someone gets in financial trouble?
 -------------------------------------------------
 
-What if a Member can't find a client for an extended period? Or what if a client suddenly goes bankrupt and doesn't pay? What if a consultant gets seriously sick?
+What if a Member can't find a client for an extended period? Or what if a client suddenly goes bankrupt and doesn't pay? What if an adviser gets seriously sick?
 
 In a "normal" consulting company, Members get their salary every month and the employer needs to prepare for risks using things like cash buffers and insurances. But Organa is more like a bunch of collaborating independents, and we leave it up to each individual to manage their own levels of risk.
 

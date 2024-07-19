@@ -24,7 +24,7 @@ Where we **store info**:
 
 How we **communicate with the outside world**:
 
--   Our website - [www.theproductspace.com.](http://www.theproductspace.com)
--   Our [blog.](http://www.theproductspace.com/blog/)
+-   Our website - [www.organa.com.au](https://www.organa.com.au/)
+-   Our [blog.](https://www.organa.com.au/blog)
 -   Slack channels for our clients, course participants and ourselves.
 -   But the biggest channel of communication are the  personal and informal channels - Organa agents tweeting, blogging, and talking to friends and clients. 

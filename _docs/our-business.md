@@ -7,7 +7,7 @@ next_section: visions.html
 Our business
 ============
 
-Organa was initially born for those who love digital product management but as most of you know, that's a massive domain now and depending on how you define it, could includes other areas like UX, design, marketing, dev, or ops. We are consultants and our Members can do whatever they want. Nothing about our model is specific to any domain or industry.
+Organa was initially born for those who love digital product management but as most of you know, that's a massive domain now and depending on how you define it, could includes other areas like UX, design, marketing, dev, or ops. We are advisers and our Members can do whatever they want. Nothing about our model is specific to any domain or industry.
 
 In practice though, because of our history and the people who happen to work at Organa, we've evolved two main business areas:
 

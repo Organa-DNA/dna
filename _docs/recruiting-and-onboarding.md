@@ -61,7 +61,7 @@ People won't fit if they don't share our values either.
 What kind of people do fit at Organa?
 ------------------------------------
 
-Most people who end up at Organa were previously independent consultants (or were heading in that direction), or interestingly, are people who don't like the way many organisations traditionally operate or were feeling they weren't doing their best work.  Typical personality traits:
+Most people who end up at Organa were previously independent advisers (or were heading in that direction), or interestingly, are people who don't like the way many organisations traditionally operate or were feeling they weren't doing their best work.  Typical personality traits:
 
 -   **Self-confident** - they know that they are highly skilled and in high demand.
 -   **Adventurous** - time without an assignment isn't the end of the world, it's an opportunity to play around, learn new stuff even stuff that's not directly related to their craft.

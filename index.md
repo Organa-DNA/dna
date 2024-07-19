@@ -22,7 +22,7 @@ The way we work and why, is so important to us that we wanted to describe it in 
 
 People are intrigued when we talk about this and are curious as to how it works in practice. 
 
-Between what we've learned from Crisp and our amazing mates at Nomad8 in New Zealand, we've converged on a model that works well for us. And that's basically the sweet spot between being an independent consultant and being an employee. 
+Between what we've learned from Crisp and our amazing mates at Nomad8 in New Zealand, we've converged on a model that works well for us. And that's basically the sweet spot between being an independent adviser and being an employee. 
 
 Want to start a similar org? See [How to clone the Organa DNA](https://organa-dna.github.io/dna/docs/how-to-copy.html). Or if you like, go back to the source and clone the Crisp DNA.
 
