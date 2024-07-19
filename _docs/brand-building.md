@@ -33,18 +33,18 @@ Visibility happens as a result of two things:
 
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
 
--   [Blog articles](http://www.theproductspace.com/blog/).
--   Partnerships with well-respected people and conpanies.
--   This [Organa DNA](https://theproductspace.github.io/dna/) site.
+-   [Blog articles](https://www.organa.com.au/blog).
+-   Partnerships with well-respected people and companies.
+-   This [Organa DNA](https://organa-dna.github.io/dna/) site.
 
 It's all about co-branding
 --------------------------
 
-As Members (consultants) we're super proud to be at Organa, and super proud of our colleagues, which is why we list everyone on [our people page](https://www.theproductspace.com). 
+As Members (advisers) we're super proud to be at Organa, and super proud of our colleagues, which is why we list everyone on [our people page](https://www.organa.com.au/). 
 
 > Many companies hide their individual employees (especially individual contact info) because they're afraid employees might be called by recruiters and leave for greener pastures. We do the opposite - we encourage each person to expose themselves as much as they like. The idea is that people should stay at Organa because they **want** to, not because the headhunters haven't found them.
 
-We believe consulting doesn't have to be a market for lemons and our philosophy is to be as transparent as possible. You will never be assigned an anonymous consultant from Organa - it will always be Sandy or Sarah etc, people with heart. If you want a CV from one of us, they're likely to look different, which may seem unprofessional, but we will always be individuals under the same umbrella.
+We believe consulting doesn't have to be a market for lemons and our philosophy is to be as transparent as possible. You will never be assigned an anonymous adviser from Organa - it will always be Sandy or Sarah etc, people with heart. If you want a CV from one of us, they're likely to look different, which may seem unprofessional, but we will always be individuals under the same umbrella.
 
 So the Organa brand is a whole that is greater than the sum of its parts - a bunch of creative people sharing stuff with the world, and indirectly building up their personal brands.
 
