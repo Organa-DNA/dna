@@ -10,7 +10,7 @@ This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and describ
 
 The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work so please see below for our acknowledgement of them. 
 
-[Organa](https://www.organa.com.au) is a home for experts who provide a range of services such as coaching, facilitation, training and consulting.
+[Organa](https://www.organa.com.au) is a home for experts who provide a range of services such as coaching, facilitation, training and advising.
 
 - Because none of us are employed by Organa, we call ourselves Members.
 - We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/dna/docs/decisions.html).
