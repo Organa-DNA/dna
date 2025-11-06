@@ -17,7 +17,7 @@ We bring it to our gatherings and meetups to remind us of who we are and why, an
 
 ## What we do
 
-We help leaders and team make sense of complexity, build capability, and get results that matter. Whether you need expert advice, structured coaching or hands-on support, we bring clarity, focus, and momentum to your organisation and get it flowing like you know it can.
+We help leaders and teams make sense of complexity, build capability, and get results that matter. Whether you need expert advice, structured coaching or hands-on support, we bring clarity, focus, and momentum to your organisation and get it flowing like you know it can.
 
 In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
 
