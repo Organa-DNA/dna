@@ -17,7 +17,7 @@ We bring it to our gatherings and meetups to remind us of who we are and why, an
 
 ## What we do
 
-We are an agile and product consulting business. We coach with and consult to individuals, teams and leaders in product management and new ways of working. We love seeing human potential unleashed and valuable products created for customers when you work with a team to craft new approaches to the work they do.
+We help leaders and team make sense of complexity, build capability, and get results that matter. Whether you need expert advice, structured coaching or hands-on support, we bring clarity, focus, and momentum to your organisation and get it flowing like you know it can.
 
 In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
 
