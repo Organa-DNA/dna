@@ -9,6 +9,8 @@ Organa Unconference
 
 Once a year we do an internal unconference, in Australia.
 
+![Lightning Rod!](../assets/lightning-rod.png "Lightning Rod!")
+
 An unconference comes with no predefined agenda, no predefined list of speakers, and no slides. We figure that out, together, in real time. 
 
 Think of it as an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
