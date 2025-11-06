@@ -52,7 +52,7 @@ Again, we are in no hurry to grow. An amazing person is worth waiting for.
 What kind of people don't fit at Organa?
 ---------------------------------------
 
-People who want stability. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the [economic model](economic-model.html). So when you don't have a client, you bleed money every month. On the other hand, when you do have a client, because you choose what you bill, you can earn more than what any company would pay you in salary. But it is the Members responsibility to buffer cash and manage their own risk.
+People who want stability. And fuckwits. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the [economic model](economic-model.html). So when you don't have a client, you bleed money every month. On the other hand, when you do have a client, because you choose what you bill, you can earn more than what any company would pay you in salary. But it is the Members responsibility to buffer cash and manage their own risk.
 
 This kind of model obviously doesn't fit everyone.
 
