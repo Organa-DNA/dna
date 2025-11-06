@@ -18,7 +18,7 @@ The metaphor
 
 When a bun (= issue or request) comes in, it's warm, juicy and soft. If it sits around for a day it gets a little cold, perhaps a little dry. If it sits around several days it becomes dry, hard and stale. You can warm up an old bun in the microwave oven as long as it hasn't become too dry.
 
-So, a bun should be eaten fairly quickly or thrown away. Even though it's a crime against baking to throw away baked goods ... No use stuffing it in a box. If you can't eat it yourself, offer it to someone else - before it gets cold, dry and hard!  
+So, a bun should be eaten fairly quickly or thrown away. No use stuffing it in a box. If you can't eat it yourself, offer it to someone else - before it gets cold, dry and hard!  
 
 Sample buns
 -----------
