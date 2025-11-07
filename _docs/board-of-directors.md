@@ -13,7 +13,7 @@ At Organa, this works differently.
 
 First of all, we have no CEO and no management. Second, we invite all Organa Members to become [owners after 2 years](ownership-model.html). 
 
-Since [we have no CEO role](decisions.html), and since we have autonomous Members, there is little to manage.
+Since [we have no CEO role](decisions.md), and since we have autonomous Members, there is little to manage.
 
 What does the Board do?
 -----------------------
