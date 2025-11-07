@@ -9,7 +9,7 @@ Organa Unconference
 
 Once a year we do an internal unconference, in Australia.
 
-(../assets/lightning-rod.png "Lightning Rod is Awesome!")
+![Lightning Rod!](../assets/lightning-rod.png "Lightning Rod is Awesome!")
 
 An unconference comes with no predefined agenda, no predefined list of speakers, and no slides. We figure that out, together, in real time. 
 
