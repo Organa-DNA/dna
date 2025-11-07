@@ -9,8 +9,6 @@ Organa Unconference
 
 Once a year we do an internal unconference, in Australia.
 
-![Lightning Rod!](../assets/lightning-rod.png "Lightning Rod is Awesome!")
-
 An unconference comes with no predefined agenda, no predefined list of speakers, and no slides. We figure that out, together, in real time. 
 
 Think of it as an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
@@ -20,7 +18,7 @@ Think of it as an alternative to a conference. If the purpose of a conference is
 Why we do conferences
 ---------------------
 
-Face-to-face is the most effective way to get to know each other, spread knowledge, solve problems, and make decisions. Unfortunately, since we are members and work with different clients, we rarely naturally meet as a big group. So that's the purpose of the unconference - to get everyone together!  Cos fuck yeah.
+Face-to-face is the most effective way to get to know each other, spread knowledge, solve problems, and make decisions. Unfortunately, since we are members and work with different clients, we rarely naturally meet as a big group. So that's the purpose of the unconference - to get everyone together!
 
 Where do we go?
 ---------------
