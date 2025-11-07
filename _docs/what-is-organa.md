@@ -11,7 +11,7 @@ Our purpose is simple: to enable our Members to be happy. We measure only one th
 
 We've visualised "Our home" below, along with a description of other things that are important to us. 
 
-[What is Organa](../assets/theproductspace-what-v2.png "What is Organa")
+![What is Organa!](../assets/theproductspace-what-v2.png "What is Organa")
 
 We bring it to our gatherings and meetups to remind us of who we are and why, and also in case we want to update it.  
 
